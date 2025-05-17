@@ -61,3 +61,8 @@ console.log("Tipo undefined");
 // Variable declarada sin valor asignado
 let miVaraible;
 console.log(miVaraible);
+
+console.log("Tipo null");
+// Valor nulo intencional (sin contenido)
+miVaraible = null;
+console.log(miVaraible);
