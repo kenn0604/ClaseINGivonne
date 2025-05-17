@@ -42,3 +42,9 @@ console.log("Este es un número no definido de la lista 1");
 // Índice fuera del rango (valor undefined)
 console.log(lista[5]);
 
+console.log("Tipo object");
+// Objeto con varios tipos de datos
+let persona;
+persona = { nombre: "Ana", edad: 25, esReal: true };
+console.log(persona);
+
