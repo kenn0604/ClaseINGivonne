@@ -23,3 +23,22 @@ console.log("Tipo array");
 let lista;
 lista = [1, 2, 3, 4];
 console.log("Lista:", lista);
+
+console.log("Navegacion en un array");
+// Lista de letras (valores cualitativos)
+let lista2;
+lista2 = ["H", "J", "K"];
+console.log("Personas:", lista2);
+
+console.log("Este es el primer número de la lista 1");
+// Primer elemento del array
+console.log(lista[0]);
+
+console.log("Este es el último número de la lista 1");
+// Último elemento del array
+console.log(lista[3]);
+
+console.log("Este es un número no definido de la lista 1");
+// Índice fuera del rango (valor undefined)
+console.log(lista[5]);
+
