@@ -12,3 +12,8 @@ let texto;
 texto = "soy Keny";
 console.log(texto);
 
+console.log("Tipo boolean");
+// Valor lógico verdadero/falso
+let esActivo;
+esActivo = true;
+console.log("Es activo:", esActivo);
